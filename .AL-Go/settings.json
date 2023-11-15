@@ -1,9 +1,10 @@
 {
   "country": "us",
   "appSourceCopMandatoryAffixes": [
-   "<affix>"
+   "<affix>","BingMaps"
   ],
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "LicenseFileUrlSecretName": "LicenseFile"
 }
