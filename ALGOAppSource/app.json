@@ -1,31 +1,43 @@
 {
   "id": "446e94d4-b149-4bd5-8fb7-c46fb67d4fd0",
   "name": "ALGOAppSource",
-  "publisher": "FOFANA",
-  "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
-  "dependencies": [],
-  "screenshots": [],
-  "platform": "1.0.0.0",
-  "application": "22.0.0.0",
-  "idRanges": [
+"publisher": "SBSI Consulting",
+  "version": "23.0.0.0",
+  "brief": "This extension allow setting up a custom workflow",
+  "description": "This extension allow setting up a custom workflow",
+  "privacyStatement": "https://sbsiconsulting.fr/en/privacy-policy/",
+  "EULA": "https://go.microsoft.com/fwlink/?linkid=2041178",
+  "help": "https://sbsiconsulting.fr",
+  "url": "https://sbsiconsulting.fr",
+  "logo": "./Images/LogoAppsource216x216.png",
+  "contextSensitiveHelpUrl": "https://sbsiconsulting.fr",
+  "dependencies": [
     {
-      "from": 100000,
-      "to": 75999999
+      "id": "50501856-fc24-47ca-8359-4809b382aa19",
+      "publisher": "SBSI Consulting",
+      "name": "License Management",
+      "version": "1.0.0.0"
     }
   ],
-  "features": [
-    "NoImplicitWith"
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 71543575,
+      "to": 71544074
+    }
   ],
   "resourceExposurePolicy": {
-    "allowDebugging": true,
+    "allowDebugging": false,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "target": "Cloud",
+  "applicationInsightsConnectionString": "InstrumentationKey=40a2d425-204b-4efc-822b-0826ad3e3f78;IngestionEndpoint=https://francecentral-1.in.applicationinsights.azure.com/;LiveEndpoint=https://francecentral.livediagnostics.monitor.azure.com/"
 }
