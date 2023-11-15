@@ -12,12 +12,6 @@
   "logo": "./Images/LogoAppsource216x216.png",
   "contextSensitiveHelpUrl": "https://sbsiconsulting.fr",
   "dependencies": [
-    {
-      "id": "50501856-fc24-47ca-8359-4809b382aa19",
-      "publisher": "SBSI Consulting",
-      "name": "License Management",
-      "version": "1.0.0.0"
-    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
