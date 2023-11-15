@@ -1,4 +1,4 @@
 {
   "type": "AppSource App",
-  "templateUrl": "https://storagesbsiapps.blob.core.windows.net/fofana/ALGOAppSource-main%20(1).zip?sv=2023-01-03&st=2023-11-14T15%3A32%3A22Z&se=2023-11-15T15%3A32%3A22Z&sr=b&sp=r&sig=0jnC2fk5pBkemsnVXtoB8WTDgllvI99jLvd5mGZ3MmA%3D"
+  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@main"
 }
