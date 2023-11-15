@@ -1,0 +1,6 @@
+{
+    "name": "No",
+    "version":"1.0.0.0",
+    "publisher": "FOFANA",
+    "mandatoryAffixes": ["BingMaps","affix"]
+}
